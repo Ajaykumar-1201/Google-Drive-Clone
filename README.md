@@ -1,2 +1,2 @@
 # Google-Drive-Clone
-G00gle Drive Clone using HTML and Material CSS
+Google Drive Clone using HTML and Material CSS
